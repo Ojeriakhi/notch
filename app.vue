@@ -1,4 +1,4 @@
-<template>
+
   <template>
     <section class="px-28 py-4 flex justify-center flex-col align-center ">
      <header class="flex justify-between">
@@ -179,4 +179,3 @@
  
     
  </template>
-</template>
